@@ -171,7 +171,7 @@ INSERT INTO barang (nama_barang, kategori, harga, stok, keterangan) VALUES
 
 # UTS Pemrograman Web III
 **Nama**: Fatikhah Feby
-**NIM**: [Isi NIM Anda]
+**NIM**: 252112032
 **Mata Kuliah**: Pemrograman Web III
 **Tema**: Manajemen Barang
 **Framework**: CodeIgniter 3
