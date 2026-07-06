@@ -104,7 +104,7 @@ class Model_barang extends CI_Model {
     <br>
     <p><strong>Nama:</strong> Fatikhah Feby</p>
     <p><strong>Mata Kuliah:</strong> Pemrograman Web III</p>
-    <p><strong>Tugas:</strong> UTS - Pertemuan 2</p>
+    <p><strong>Tugas:</strong> UAS - </p>
 </div>
 </div></body></html>
 
