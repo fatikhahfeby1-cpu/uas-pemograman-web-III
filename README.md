@@ -79,7 +79,7 @@ class Model_barang extends CI_Model {
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>UTS Pemrograman Web III - Fatikhah Feby</title>
+    <title>UAS Pemrograman Web III - Fatikhah Feby</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 </head>
 <body>
@@ -169,7 +169,7 @@ INSERT INTO barang (nama_barang, kategori, harga, stok, keterangan) VALUES
 ('Meja Belajar', 'Perabot', 750000, 8, 'Kayu jati'),
 ('Mouse Wireless', 'Aksesoris', 125000, 25, 'Tahan lama');
 
-# UTS Pemrograman Web III
+# UAS Pemrograman Web III
 **Nama**: Fatikhah Feby
 **NIM**: 252112032
 **Mata Kuliah**: Pemrograman Web III
